@@ -1,4 +1,3 @@
-# dacherry_portfolio
 # Dacherry Studios 🎨
 
 Welcome to **Dacherry Studios** — where design meets persuasion.  
