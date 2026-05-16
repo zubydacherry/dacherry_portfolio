@@ -39,7 +39,21 @@ We help local businesses in Bangladesh stand out online with **creative branding
 
 ## 📞 Contact
 - Email: **zubydacherry_7@gmail.com**  
-- WhatsApp: **+8801511522847**  
+- WhatsApp: **+8801511522847** <section id="contact" class="contact">
+  <h2>Contact Us</h2>
+  <p>Email: info@dacherrystudio.com</p>
+  <p>WhatsApp: +8801712345678</p>
+  
+  <!-- WhatsApp Button -->
+  <a href="https://wa.me/8801511522847" target="_blank"
+     style="display:inline-block; background:#25D366; color:#fff; padding:12px 20px; border-radius:5px; text-decoration:none; font-weight:bold;">
+     💬 Chat on WhatsAppa:hover {
+  background:#128C7E; /* Darker green */
+}
+  
+  </a>
+</section>
+ 
 - Facebook: [fb.com/dacherrystudio](https://fb.com/dacherrystudio)
 
 ---
